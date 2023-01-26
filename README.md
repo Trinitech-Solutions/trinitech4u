@@ -1,7 +1,21 @@
-### Hi there 👋
+<h1>Hi, I'm Nicholas! 
 
-<!--
-**trinitech4u/trinitech4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+
+- <b>C# (.NET Desktop Applications)</b>
+
+- <b>Python</b>
+
+<h2>📺 Popular YouTube Videos</h2>
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+
 
 Here are some ideas to get you started:
 
