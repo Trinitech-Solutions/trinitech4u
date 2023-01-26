@@ -1,12 +1,15 @@
 <h1>Hi, I'm Nicholas! 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>🖥 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
 
 - <b>C# (.NET Desktop Applications)</b>
 
 - <b>Python</b>
+
+<h2>📖 Certifications</h2>
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
