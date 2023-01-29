@@ -1,4 +1,5 @@
 <h1>Hi, I'm Nicholas! 
+<p> This git-hub is to show some of my cybersecurity projects and labs.<p>
 
 <h2>🖥 Cybersecurity Projects:</h2>
 
