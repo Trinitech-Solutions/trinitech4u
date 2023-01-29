@@ -1,27 +1,7 @@
 <h1>Hi, I'm Nicholas! 
-<p>This git-hub is to show some of my cybersecurity projects and labs.</p>
+<p1>This git-hub is to show some of my cybersecurity projects and labs.</p1>
 
 <h2>🖥 Cybersecurity Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-
-- <b>C# (.NET Desktop Applications)</b>
-
-- <b>Python</b>
-
-<h2>📖 Certifications</h2>
-
-
-<h2>📺 Popular YouTube Videos</h2>
-
-
-
-<h2> 🤳 Connect with me:</h2>
-
-
-
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -31,4 +11,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<h2>📖 Certifications</h2>
+
+
+<h2>📺 Popular YouTube Videos</h2>
+
+
+
+<h2> 🤳 Connect with me:</h2>
