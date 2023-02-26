@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cybersecurity. Musician. HVAC
 -----------------------------
 
-Involved with technology throughout my career, I'm leveraging my vast skills & experience to contribute into the cybersecurity community.
+Involved with technology throughout my career, and I'm leveraging my vast knowledge, skills & experience 
+with Air Conditioning & Refrigeration Technology, Bulding Automation Systems to contribute into the cybersecurity community.
 
 * 🌍  I'm based in Atlanta, GA
 * 🚀  I'm currently working on [Security+](http://https://www.comptia.org/certifications/security)
