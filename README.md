@@ -5,10 +5,10 @@ Cybersecurity. Musician. HVAC
 -----------------------------
 
 Involved with technology throughout my career, and I'm leveraging my vast knowledge, skills & experience 
-with Air Conditioning & Refrigeration Technology, Bulding Automation Systems to contribute into the cybersecurity community.
+with Air Conditioning & Refrigeration Technology, Building Automation Systems to contribute to the cybersecurity community.
 
 * 🌍  I'm based in Atlanta, GA
-* 🚀  I'm currently working on [Security+](http://https://www.comptia.org/certifications/security)
+* 🚀  I'm currently working on Windows Server 2019 Administration and CISCO Networking  
 * 🧠  I'm learning Cyber and Network Security
 
 ### Skills
